@@ -20,5 +20,5 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "DebuggerSample"
-include(":app")
+//include(":app")
 include(":module")
